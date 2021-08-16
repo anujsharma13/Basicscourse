@@ -1,2 +1,2 @@
 # Basicscourse
-This includes the basic topics of c#
+This includes the basic topics of c# programming language
