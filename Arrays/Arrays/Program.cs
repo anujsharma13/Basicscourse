@@ -35,7 +35,7 @@ namespace Arrays
         }
         static public void fun3(params int[] a)  // no need to pass dimension while passing to function
         {
-            int i, j;
+            int i;
             for (i = 0; i < a.Length; i++)
             {
                 Console.WriteLine(a[i]);
