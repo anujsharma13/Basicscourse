@@ -4,7 +4,8 @@ namespace classes
 {
     class A
     {
-        public int val1a, val2a;
+        public int val1a;
+        public int val2a;
         public static int x1;
         public A() : this(10, 20, 30)   // it means if user call default constructor without calling parametrized constructor assign these values
         {
